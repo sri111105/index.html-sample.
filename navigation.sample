@@ -1,0 +1,30 @@
+<!DOCTYPE htnl>
+<html Lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content ="width=device-width, intial-scale=1.0">
+        <title>community holder</title>
+        </head>
+        <body>
+            <nav>
+                <a href="#home">home</a>
+                <a href="#about">about</a>
+                <a href="#contact">contact</a>
+
+                <a href="#help">help</a>
+
+            </nav>
+            <section id="home">
+                <h1>Home</h1>
+            </section>
+            <section id="about">
+                <h1>About</h1>
+            </section>
+            <section id="contact">
+                <h1>Contact</h1>
+            </section>
+            <section id="help">
+                <h1>Help</h1>
+            </section>
+        </body>
+</html>
